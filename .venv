@@ -1,4 +1,4 @@
-TGBOT_TOKEN = 7366611292:AAGOGiBaCRKuxOsZIuslKdOLZw9cNxY9Y3s
+TGBOT_TOKEN = """"
 [api.weatherstack.com]
-WEATHER_API_KEY = 1bc0c3fdb393d3a2667499e8ce91cf46
+WEATHER_API_KEY = """"
 BASE_WEATHER_URL = http://api.weatherstack.com/current?
