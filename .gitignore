@@ -1,0 +1,15 @@
+*.txt
+.venv/
+venv/
+.env/
+env/
+.env
+.pyc
+__pycache__/
+
+*.pyo
+*.py~
+migrations/*
+
+.idea/
+.vscode/
